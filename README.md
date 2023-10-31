@@ -7,6 +7,10 @@
 ![image](https://github.com/zzxxoo0717/software-engineering/assets/71486133/9fe0bc58-0a44-4ec4-b525-7934ec26bb31)
 
 
+![sss](https://github.com/zzxxoo0717/software-engineering/assets/71486133/10d282c4-aace-4964-b6aa-c7cfa1f410fe)
+(此為用draw.io畫的類圖)
+
+
 ![image](https://github.com/zzxxoo0717/software-engineering/assets/71486133/6c1adca6-67f7-42b5-8764-5dff4814eb14)
 (此為draw.io裡預設的類圖示例圖)
 
